@@ -1,6 +1,6 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+[![analytics-banner-1.png](https://i.postimg.cc/QM9Wq8Vs/analytics-banner-1.png)](https://postimg.cc/Y479rw1y)
 
-# Proyecto Individual Data Analytics: Facundo Paccioretti
+# Proyecto de Data Analytics: Telecomunicaciones Enacom
 
 
 # Telecomunicaciones Enacom
